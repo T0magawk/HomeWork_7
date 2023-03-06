@@ -1,0 +1,15 @@
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/bin/Debug/net6.0/Task_3
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/bin/Debug/net6.0/Task_3.deps.json
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/bin/Debug/net6.0/Task_3.runtimeconfig.json
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/bin/Debug/net6.0/Task_3.dll
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/bin/Debug/net6.0/Task_3.pdb
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/obj/Debug/net6.0/Task_3.csproj.AssemblyReference.cache
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/obj/Debug/net6.0/Task_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/obj/Debug/net6.0/Task_3.AssemblyInfoInputs.cache
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/obj/Debug/net6.0/Task_3.AssemblyInfo.cs
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/obj/Debug/net6.0/Task_3.csproj.CoreCompileInputs.cache
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/obj/Debug/net6.0/Task_3.dll
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/obj/Debug/net6.0/refint/Task_3.dll
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/obj/Debug/net6.0/Task_3.pdb
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/obj/Debug/net6.0/Task_3.genruntimeconfig.cache
+/Users/aleksandrshushpanov/Desktop/HomeWork/C#/HomeWork_7/Task_3/obj/Debug/net6.0/ref/Task_3.dll
