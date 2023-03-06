@@ -54,18 +54,17 @@ void PrintArray(int[,] inArray)
 }
 void GetSred(int[,] array)
 {
-    for (int j = 0; j < mass.Length; j++)
-    {   int sum = 1;
-        for (int i = 0; i < mass.Length; i++)
+    for (int j = 0; j < array.GetLength(1); j++)
+    {   double sum = 0;
+        for (int i = 0; i < array.GetLength(0); i++)
         {
-            if (j == i)
-            {
                 sum = sum + array[i, j];
             }
-                }
-        sred = sum / rows;
+            sred = sum / rows;
         Console.WriteLine(sred);
+                }
+         
         }
 
-    }
+    
 
